@@ -1,0 +1,26 @@
+GRAPHISTE 360° — Ajout discret du lien de contact
+==============================================
+Projet : ag-expertises-contact-main
+
+Modifications réalisées :
+- Ajout d'une signature en bas de la page, avec le logo Graphiste 360° fourni.
+- La signature est cliquable et ouvre un e-mail prérempli à papeterie.multiservices@yahoo.fr.
+- Texte visible : « Fiche réalisée par Graphiste 360° · Nous contacter ».
+- Aucun QR code ni aucun lien du client n'a été modifié.
+- Tous les fichiers existants et les noms de dossier ont été conservés.
+
+DESTINATION À VALIDER AVANT PUBLICATION : papeterie.multiservices@yahoo.fr
+
+Pour publier sur GitHub :
+1. Ouvrir le dépôt existant de ce client.
+2. Déposer les fichiers modifiés de docs/ aux mêmes emplacements :
+   - docs/index.html
+   - docs/style.css
+   - docs/assets/logo-graphiste-360.png
+3. Confirmer le remplacement des fichiers index.html et style.css.
+4. Vérifier dans un navigateur la page GitHub Pages publiée.
+5. Tester les boutons clients et la signature sur un téléphone.
+
+Important : la modification des fichiers à URL inchangée conserve les liens
+liés aux QR codes, si la configuration de publication GitHub Pages reste identique.
+Le site n'a pas été publié automatiquement.
